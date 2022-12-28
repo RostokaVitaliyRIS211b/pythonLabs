@@ -1,0 +1,59 @@
+{
+    "amount": 6,
+    "obj": [
+        {
+            "isContainer": false,
+            "name": "Knife",
+            "brand": "Samura",
+            "sharpness": true,
+            "size": "big",
+            "material": "silver"
+        },
+        {
+            "isContainer": false,
+            "name": "Fork",
+            "brand": "Potrat",
+            "sharpness": true,
+            "size": "big",
+            "material": "silver"
+        },
+        {
+            "isContainer": false,
+            "name": "Spoon",
+            "brand": "Lofolop",
+            "sharpness": false,
+            "size": "small",
+            "material": "silver"
+        },
+        {
+            "D": 18,
+            "H": 2,
+            "isContainer": true,
+            "name": "Plate",
+            "brand": "MyHouse",
+            "sharpness": false,
+            "size": "big",
+            "material": "ceramics"
+        },
+        {
+            "D": 25,
+            "H": 20,
+            "isContainer": true,
+            "name": "Pot",
+            "brand": "Exted",
+            "sharpness": false,
+            "size": "big",
+            "material": "steel"
+        },
+        {
+            "D": 20,
+            "H": 4,
+            "isContainer": true,
+            "name": "Pan",
+            "brand": "OverCook",
+            "sharpness": false,
+            "size": "small",
+            "material": "steel"
+        }
+    ]
+}
